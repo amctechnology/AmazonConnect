@@ -1,0 +1,12 @@
+:host {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.connectHome {
+  display: inline-block;
+  width: 100%;
+}

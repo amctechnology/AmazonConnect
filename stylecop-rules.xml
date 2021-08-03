@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Sample rule set" Description="Sample rule set illustrating customizing StyleCopAnalyzer rule severity" ToolsVersion="14.0">
+  <Rules AnalyzerId="StyleCop.Analyzers" RuleNamespace="StyleCop.Analyzers">
+    <Rule Id="SA1601" Action="None" />
+    <Rule Id="SA0001" Action="None" />
+    <Rule Id="SA1200" Action="None" />
+    <Rule Id="SA1633" Action="None" />
+    <Rule Id="SA1600" Action="None" />
+    <Rule Id="SA1210" Action="None" />
+    <Rule Id="SA1309" Action="None" />
+    <Rule Id="SA1214" Action="None" />
+    <Rule Id="SA1201" Action="None" />
+    <Rule Id="SA1101" Action="None" />
+    <Rule Id="SA1413" Action="None" />
+    <Rule Id="SA1005" Action="None" />
+    <Rule Id="SA1515" Action="None" />
+    <Rule Id="SA1009" Action="None" />
+    <Rule Id="SA1602" Action="None" />
+    <Rule Id="SA1202" Action="None" />
+    <Rule Id="SA1124" Action="None" />
+    <Rule Id="SA1204" Action="None" />
+    <Rule Id="SA1401" Action="None" />
+    <Rule Id="SA1629" Action="None" />
+    <Rule Id="SA1307" Action="None" />
+    <Rule Id="SA1604" Action="None" />
+    <Rule Id="SA1513" Action="None" />
+    <Rule Id="SA1111" Action="None" />
+    <Rule Id="SA1117" Action="None" />
+    <Rule Id="SA1615" Action="None" />
+    <Rule Id="SA1122" Action="None" />
+    <Rule Id="SA1118" Action="None" />
+    <Rule Id="SA1208" Action="None" />
+    <Rule Id="SA1300" Action="None" />
+    <Rule Id="SA1512" Action="None" />
+    <Rule Id="SA1500" Action="Error" />
+  </Rules>
+</RuleSet>

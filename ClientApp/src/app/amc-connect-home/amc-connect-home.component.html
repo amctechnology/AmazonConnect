@@ -1,0 +1,7 @@
+<div #scenarioContainer>
+  <ng-container *ngFor="let scenario of scenarios$ | async">
+    <amc-scenario [scenario]="scenario"></amc-scenario>
+  </ng-container>
+
+
+</div>
