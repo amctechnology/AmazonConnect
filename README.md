@@ -13,7 +13,7 @@ Please follow the following steps to successfully get the app up and running:
 5. Login to https://studio-dev.contactcanvas.com and navigate to the Apps section.
 6. Ensure that you have the following apps loaded:
     * GlobalPresenceControl
-    * DAVINCI APP FOR SALESFORCE
+    * DAVINCI APP FOR SALESFORCE (or any other CRM App)
     * DAVINCI APP FOR AMAZON CONNECT 
 7. Click on Amazon Connect and then More. Then, click on Config and click on "DaVinci App for Amazon Connect".  This will open up the configuration panel.
 8. Here, change the "**URL**" parameter to "https://connect-test.contactcanvas.com". 
