@@ -22,6 +22,5 @@ Please follow the following steps to successfully get the app up and running:
 11. Here, add to the list of approved origins:   
     * https://connect-test.contactcanvas.com
     * https://agent-dev.contactcanvas.com
-    * Your Salesforce domain, for example https://na1234.lightning.force.com
-12. You should now be able to login to your softphone in Salesforce and use Amazon Connect with either DaVinci UI or Connect's UI.
-
+    * Your CRM domain, an example Salesforce damin would be: https://na1234.lightning.force.com
+12. You should now be able to login to the DaVinci toolbar in your CRM and use Amazon Connect with either DaVinci UI or Connect's UI.
