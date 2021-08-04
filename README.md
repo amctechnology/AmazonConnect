@@ -10,6 +10,7 @@ Please follow the following steps to successfully get the app up and running:
         2. In the new HOSTS window which opens, check the enable mapping box, if it is unchecked.
         3. Add the following mapping in the list: "**127.0.0.1:4200 connect-test.contactcanvas.com**"
         4. Click save.
+        5. Navigate to https://connect-test.contactcanvas.com and accept the certificate in your browser. This needs to be done in the browser you will use to login to your CRM.
 5. Login to https://studio-dev.contactcanvas.com and navigate to the Apps section.
 6. Ensure that you have the following apps loaded:
     * GlobalPresenceControl
